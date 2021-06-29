@@ -1,4 +1,27 @@
 
+# Würfel mit micro:bit
+
+
+## Aufgabenstellung
+
+Der micro:bit soll die Funktion eines Würfels übernehmen Dazu soll er die folgenden Eigenschaften haben:
+
+* Wenn der micro:bit startet, soll das Display ausgeschaltet bleiben
+* Wenn der micro:bit geschüttelt wird, soll eine neue Zufallszahl angezeigt werden.
+* Die gewürfelten Zahlen sollen wie beim richtigen Würfel zwischen 1 bis 6 sein.
+* Wenn der Würfel aufs Display gelegt wird, oder die Taste "A" gedrückt wird, soll das Display gelöscht werden.
+
+### Zusatzaufgabe:
+
+* Mit der Taste "B" soll zwischen dem aktuellen und dem letzten Zahlenwert hin und her geschaltet werden können 
+
+
+
+
+
+
+
+
 > Diese Seite bei [https://kilian-funk.github.io/wuerfel/](https://kilian-funk.github.io/wuerfel/) öffnen
 
 ## Als Erweiterung verwenden
